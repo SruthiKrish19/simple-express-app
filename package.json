@@ -1,0 +1,19 @@
+{
+  "name": "simple-express-app",
+  "version": "1.0.0",
+  "description": "A basic express application that serves content over HTTP.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "Sruthi Krishnakumar",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
