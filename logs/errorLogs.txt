@@ -1,0 +1,16 @@
+02-Jun-2024 19:25:11	09468871-cf09-4844-a839-fa18eac66d80	Error	Not allowed by CORS	/hello-world
+02-Jun-2024 19:25:11	42fd4d0d-0dd8-4273-89f0-050986fed88a	Error	Not allowed by CORS	/hello-world
+02-Jun-2024 19:26:21	3f9fc573-9c6d-4fc4-9c5f-c88e13bb983f	Error	Not allowed by CORS	/hello-world
+02-Jun-2024 19:26:21	885c93a4-7165-41d2-89d6-d3feaeef8b15	Error	Not allowed by CORS	/hello-world
+02-Jun-2024 19:27:53	05e538de-6f72-4a33-9b8b-497a1cd9e846	Error	Not allowed by CORS	/hello-world
+02-Jun-2024 19:27:53	a7f03302-6fe7-45e8-8c26-788665b63451	Error	Not allowed by CORS	/hello-world
+02-Jun-2024 19:28:00	f2cab4dd-e4f0-42b5-8cfd-9ed9b6271f21	Error	Not allowed by CORS	/hello-world
+02-Jun-2024 19:28:00	b278089e-14e6-44f7-9661-363249f16cd2	Error	Not allowed by CORS	/hello-world
+09-Jun-2024 16:19:28	220b63b5-8379-42eb-8926-dc8b7b0ef571	SyntaxError	Unexpected non-whitespace character after JSON at position 67	/user
+22-Jun-2024 18:04:55	5f7d9dc9-e86a-4c71-b33b-3f101cb868cc	TypeError	Cannot convert undefined or null to object	/refresh
+22-Jun-2024 18:05:12	767922d2-72f3-4174-b9e5-a39db1f96611	TypeError	Cannot convert undefined or null to object	/refresh
+22-Jun-2024 18:07:24	04922bfd-cfa5-4290-b342-66a9ee666549	Error	secretOrPrivateKey must have a value	/refresh
+22-Jun-2024 18:07:28	3365539b-29d9-4e99-ae72-0eec9e51fe56	Error	secretOrPrivateKey must have a value	/refresh
+22-Jun-2024 18:07:33	7c4e43d2-9c1b-4505-9557-f11be8396231	Error	secretOrPrivateKey must have a value	/refresh
+22-Jun-2024 18:08:21	d3ded768-b41d-472c-8be8-a4e62e98a1ab	Error	secretOrPrivateKey must have a value	/refresh
+22-Jun-2024 18:09:10	435b7f4f-a5f8-4d04-93eb-588c58880075	Error	secretOrPrivateKey must have a value	/refresh

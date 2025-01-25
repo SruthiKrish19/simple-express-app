@@ -1,0 +1,22 @@
+[
+    {
+      "username": "Sruthi1",
+      "roles": {
+        "User": 2001,
+        "Editor": 1984
+      },
+      "password": "$2b$10$nAcGvkdae.o.Dx52XtxMRuv3cU.MVbo6Q1OzzxbXw1E.qYD6cjTWi",
+      "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IlNydXRoaTEiLCJpYXQiOjE3MTkwNjA3MjEsImV4cCI6MTcxOTE0NzEyMX0.4maMWiWiYCpv_56iFwvme8AoMzQSPqc8Wk3TROx0JcE"
+    },
+    {
+      "username": "Sruthi",
+      "password": "$2b$10$jE6so9J1gC7vw6nrfDFiaOBW5th0Fs3zvn9tvaB8pY/9JdKiTHeD.",
+      "roles": {
+        "User": 2001,
+        "Editor": 1984,
+        "Admin": 5150
+      },
+      "refreshToken": ""
+    }
+  ]
+  
