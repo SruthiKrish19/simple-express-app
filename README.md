@@ -34,4 +34,5 @@ npm run dev
 #### Step 4: Using the APIs
 You can interact with the application through the defined routes, from Postman (or any prefered tool) via http://localhost:5000 (or the port specified in your .env file).
 
+![image](https://github.com/user-attachments/assets/30628d48-38cd-4fa2-91c4-49b5ea5b0ba3)
 
